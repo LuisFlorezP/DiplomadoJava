@@ -1,5 +1,5 @@
 
-package EjercicioCIudad;
+package EjercicioCiudad;
 
 public class ciudad {
     private String nombre;
