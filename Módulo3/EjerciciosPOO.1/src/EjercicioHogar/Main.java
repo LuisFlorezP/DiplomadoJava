@@ -7,7 +7,7 @@ public class Main {
         hogar miHogar2 = new hogar("Barichara.","Amarillo.",1);
         hogar miHogar3 = new hogar(1,2,1,1);
         
-        System.out.println("Datos del hogar:");
+        System.out.println("Datos del hogar:\n");
         System.out.println("   Constructor N°1:");
         System.out.println("   - Ciudad: " + miHogar1.getCiudad());
         System.out.println("   - Barrio: " + miHogar1.getBarrio());
